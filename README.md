@@ -32,15 +32,15 @@ Confusion matrix:
 
 Results on training data:
 
-Accuracy = 0.9742916119346969
-Precision = 0.9743125441815697
-Recall = 0.9742916119346969
+- Accuracy = 0.9742916119346969
+- Precision = 0.9743125441815697
+- Recall = 0.9742916119346969
 
 Results on validation data:
 
-Accuracy = 0.7985989492119089
-Precision = 0.7986622274084477
-Recall = 0.7985989492119089
+- Accuracy = 0.7985989492119089
+- Precision = 0.7986622274084477
+- Recall = 0.7985989492119089
 
 Confusion matrix:
 

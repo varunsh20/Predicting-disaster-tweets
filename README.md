@@ -2,7 +2,9 @@
 
 This repository is about predicting which Tweets are about real disasters and which ones are not.
 
-It is a kaggle project. The link to the kaggle competition is https://www.kaggle.com/c/nlp-getting-started.
+It is a kaggle project.This notebook was able to achieve '0.79895' public score in the competition.
+
+The link to the kaggle competition is https://www.kaggle.com/c/nlp-getting-started.
 
 Different models like 'Logistic regression', 'mutlinomial naive bayes','gaussian naive bayes' and 'random forest classifier' is used to predict whether a given tweet is about a disaster or not.
 
